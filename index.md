@@ -3,4 +3,4 @@ Hello and welcome to this blog.
 
 ## Welcome to my blog!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I will be sharing my blogs below, and what I have learnt about fastai
